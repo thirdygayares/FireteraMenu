@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/view"
+        android:title="View Saved Item"
+        android:icon="@drawable/ic_baseline_save_24"
+        />
+    <item android:id="@+id/exit"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="Exit" />
+
+</menu>
